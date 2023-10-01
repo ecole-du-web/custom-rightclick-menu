@@ -12,10 +12,9 @@ body {
 .custom-menu {
   display: none;
   width: 200px;
-  position: absolute;
   box-shadow: 0 5px 15px #1111118c;
+  position: fixed;
 }
-
 .custom-menu button {
   width: 100%;
   text-align: left;
